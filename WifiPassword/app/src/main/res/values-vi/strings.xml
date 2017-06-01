@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wifi Password Viewer</string>
+    <string name="action_about">Thông tin</string>
+    <string name="title_wifi_open">MỞ</string>
+    <string name="ssid">SSID</string>
+    <string name="psk">Mật khẩu</string>
+    <string name="security">Bảo mật</string>
+    <string name="priority">Độ ưu tiên</string>
+    <!--Main Layout-->
+    <string name="title_ssid">SSID: %s</string>
+    <string name="title_psk">Mật khẩu: %s</string>
+    <string name="text_copy_open_wifi">Mạng Wifi này ko khóa, không cần copy!</string>
+    <string name="text_copy_success">Mật khẩu đã được copy vào Clipboard!</string>
+
+    <!---For Popup..-->
+    <string name="dialog_title">Thông tin Mạng Wifi</string>
+
+    <!--About-->
+    <string name="app_info">Wifi Password Viewer ver 1.0</string>
+    <string name="author">Tác giả: Phạm Văn Mạnh</string>
+    <string name="email">Email: manhterry93@gmail.com</string>
+    <string name="note">Note: Ứng dụng này cần truy cập quyền Root \n Thiết bị của bạn cần được root để sử dụng.</string>
+</resources>

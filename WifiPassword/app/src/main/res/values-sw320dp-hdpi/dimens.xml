@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">15dp</dimen>
+    <dimen name="image_item_size">30dp</dimen>
+    <dimen name="save_item_size">20dp</dimen>
+    <dimen name="margin_horizontal_card_view">10dp</dimen>
+    <dimen name="margin_vertical_card_view">3dp</dimen>
+    <dimen name="margin_layout_main">2dp</dimen>
+    <dimen name="margin_vertical_detail">5dp</dimen>
+    <dimen name="margin_vertical_detail1">2dp</dimen>
+    <dimen name="size_ads_layout">60dp</dimen>
+
+    <dimen name="detail_layout_padding">10dp</dimen>
+    <dimen name="detail_title_text_size">25dp</dimen>
+    <dimen name="detail_item_text_size">16dp</dimen>
+    <dimen name="detail_margin_line">2dp</dimen>
+</resources>

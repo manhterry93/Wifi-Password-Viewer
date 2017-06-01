@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Wifi Password Viewer</string>
+    <string name="action_about">About</string>
+    <string name="title_wifi_open">OPEN</string>
+    <string name="ssid">SSID</string>
+    <string name="psk">Password</string>
+    <string name="security">Security</string>
+    <string name="priority">Priority</string>
+    <!--Main Layout-->
+    <string name="title_ssid">SSID: %s</string>
+    <string name="title_psk">Password: %s</string>
+    <string name="text_copy_open_wifi">This is Open Wifi, no need to copy!</string>
+    <string name="text_copy_success">Password is copied to Clipboard!</string>
+
+    <!---For Popup..-->
+    <string name="dialog_title">Wifi Connection Info</string>
+
+    <!--For Ads View-->
+    <string name="ad_unit_banner" translatable="false">ca-app-pub-6288726369328806/8813528171</string>
+    <!--About-->
+    <string name="app_info">Wifi Password Viewer ver 1.0</string>
+    <string name="author">Author: Pham Van Manh</string>
+    <string name="email">Email: manhterry93@gmail.com</string>
+    <string name="note">Note: This App require Root Access. \n So your device must be rooted to use this app.</string>
+
+</resources>
